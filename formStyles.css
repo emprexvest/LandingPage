@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    background: red;
+}
+
+form {
+    background-color: blue;
+}
+
+textarea {
+    resize: none;
+}

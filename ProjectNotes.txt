@@ -1,0 +1,30 @@
+Placeholder title: Plant Blog
+
+
+What is my project: It is a blog site with the ability to upload posts consisting of text and and an image.
+
+
+Design: Parallax scrolling background, navbar, content, footer.
+
+
+Utilized libraries: Bootstrap, EJS, Node.js, Express, Mongoose, and Filepond.
+
+
+Current progress:
+Linked Bootstrap CDN,
+Completed Navbar markup,
+Navbar styled with Bootstrap,
+Navbar searchbox is semantic and non-functional,
+Card searchbox is functional and connected to cardScript.js,
+Card placeholder data is scrapped from https://jsonplaceholder.typicode.com/users, as an array of JSON objects,
+Initialized the project in Node,
+Setup nodeMon to automatically refresh the server on changes,
+Installed Express as a node,
+Installed Mongoose as a node,
+Installed EJS,
+Installed Filepond,
+Currently working on a schemantic template for my blog articles,
+Completed a single input and textarea element in form.html,
+Currently creating article model schema,
+Completed the article model schema,
+Currently setting up express server, in the server.js,
